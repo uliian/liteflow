@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://liteflow.cc/">
-    <img src="static/img/logo-main.svg" width="50%" height="auto" alt="logo">
+    <img src="static/img/logo-main.png" width="50%" height="auto" alt="logo">
 </a>
 </p>
 
@@ -50,8 +50,8 @@ LiteFlow is a choreographed rules engine that is best at decoupling your systems
 
 LiteFlow uses regular expressions to drive the engine that you define. Have you ever thought about how to write multithreaded process choreography like the following?
 
-<img src="static/img/flow_e1.svg" style="zoom: 80%">
-<img src="static/img/flow_e2.svg" style="zoom: 80%">
+<img src="static/img/flow_e1.png" width="1071" style="zoom: 80%">
+<img src="static/img/flow_e2.png" width="1051" style="zoom: 80%">
 
 These processes can be easily solved with LiteFlow! The framework has a very low threshold to learn the expression language, but it can accomplish extremely high complexity of the choreography.
 
@@ -88,28 +88,6 @@ None of `THEN`, `WHEN`, `IF`, `SWITCH` or `FOR` here is newly invented for AI �
 The module connects to mainstream LLM platforms — OpenAI, Claude, Gemini, DeepSeek, Qwen (DashScope), Kimi, GLM and more — and provides multi-turn conversation memory, the Skills system, workspace file tools, streaming output, and so on. Switching models is basically a one-line change to `model()`.
 
 > Note: The AI Agent module is built on agentscope-java and requires JDK 21+ at runtime. See the [official documentation](https://liteflow.cc/) for the full usage guide.
-
-## Sponsors
-
-**驰骋工作流引擎**
-
-<a href="https://ccbpm.cn/?frm=liteFlow"><img src="static/img/chicheng-banner.png" width="896"></a>
-
-**FastBee物联网平台**
-
-<a href="https://fastbee.cn/"><img src="static/img/fb-banner.png" width="896"></a>
-
-**速众 AI 低代码开发平台**
-
-<a href="https://www.suconnect.com?hmsr=LiteFlow&hmpl=&hmcu=LiteFlow&hmkw=&hmci="><img src="static/img/suzhong-banner.jpg" width="896"></a>
-
-**Easysearch**
-
-<a href="https://easysearch.cn/"><img src="https://infinilabs.cn/img/download/media-assets/easysearch-banner-4.webp" width="896"></a>
-
-**SX.ORG**
-
-<a href="https://sx.org/?c=lite"><img src="static/img/sx-banner.png" width="896"></a>
 
 **DISCORD LINK**
 

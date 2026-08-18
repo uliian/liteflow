@@ -86,4 +86,7 @@ atlassian-ide-plugin.xml
 .claude
 .vscode
 .codegraph
+/.superpowers/
 *.factorypath
+/.worktrees/
+.node_instance_id
